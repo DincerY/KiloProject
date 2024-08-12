@@ -1,0 +1,3 @@
+C:/Users/dince/CLionProjects/OwnTextEditor/cmake-build-debug/CMakeFiles/OwnTextEditor.dir
+C:/Users/dince/CLionProjects/OwnTextEditor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dince/CLionProjects/OwnTextEditor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
